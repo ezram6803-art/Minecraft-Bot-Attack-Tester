@@ -2,7 +2,7 @@ module.exports = {
     // Server Connection Details
     server: {
         host: "pixelpeaksmp.my.id",
-        port: ,
+        port: 25565,
         version: "1.21" // Updated to match your server version
     },
 
