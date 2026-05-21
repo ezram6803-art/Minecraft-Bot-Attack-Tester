@@ -1,9 +1,9 @@
 module.exports = {
     // Server Connection Details
     server: {
-        host: "127.0.0.1",
-        port: 25565,
-        version: "1.21.5" // Updated to match your server version
+        host: "basic-3.kazuostore.id",
+        port: 19140,
+        version: "1.21" // Updated to match your server version
     },
 
     // Bot Configuration
