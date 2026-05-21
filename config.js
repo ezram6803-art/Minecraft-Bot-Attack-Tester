@@ -1,9 +1,9 @@
 module.exports = {
     // Server Connection Details
     server: {
-        host: "basic-3.kazuostore.id",
-        port: 19140,
-        version: "1.21" // Updated to match your server version
+        host: "ap3.nzb.zelpstore.id",
+        port: 26677,
+        version: "1.21.1" // Updated to match your server version
     },
 
     // Bot Configuration
@@ -31,10 +31,10 @@ module.exports = {
     // Spam Configuration
     spam: {
         enabled: true,
-        interval: 3000, // Time between messages (ms)
+        interval: 50, // Time between messages (ms)
         messages: [
-            "This is a stress test!",
-            "Checking anti-bot systems",
+            "HYPNOS TOLOL",
+            "YA KACUNG LU",
             "Lag test in progress",
             "Bot attack simulation",
             "Please ignore this bot"
