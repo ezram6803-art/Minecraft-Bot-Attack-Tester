@@ -1,9 +1,9 @@
 module.exports = {
     // Server Connection Details
     server: {
-        host: "ap3.nzb.zelpstore.id",
-        port: 26677,
-        version: "1.21.11" // Updated to match your server version
+        host: "bebery.me",
+        port: 25565,
+        version: "1.21.1" // Updated to match your server version
     },
 
     // Bot Configuration
@@ -33,7 +33,7 @@ module.exports = {
         enabled: true,
         interval: 50, // Time between messages (ms)
         messages: [
-            "HYPNOS TOLOL",
+            "AYU TOLOL",
             "YA KACUNG LU",
             "Lag test in progress",
             "Bot attack simulation",
