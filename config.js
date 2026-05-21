@@ -1,15 +1,15 @@
 module.exports = {
     // Server Connection Details
     server: {
-        host: "basic-3.kazuostore.id",
-        port: 19140,
-        version: "1.21" // Updated to match your server version
+        host: "ap3.nzb.zelpstore.id",
+        port: 26677,
+        version: "1.21.11" // Updated to match your server version
     },
 
     // Bot Configuration
     bots: {
-        count: 2000, // Number of bots to spawn
-        joinDelay: 2000, // Delay between each bot joining (ms)
+        count: 200, // Number of bots to spawn
+        joinDelay: 3000, // Delay between each bot joining (ms)
     },
 
     // Naming Strategy
@@ -25,15 +25,15 @@ module.exports = {
         // Command to execute after joining. 
         // useful for /register <password> or /login <password>
         command: "/register password123",
-        delay: 1000 // Time to wait after spawning before sending command (ms)
+        delay: 3000 // Time to wait after spawning before sending command (ms)
     },
 
     // Spam Configuration
     spam: {
-        enabled: true,
-        interval: 50, // Time between messages (ms)
+        enabled: false,
+        interval: 10, // Time between messages (ms)
         messages: [
-            "AYU TOLOL",
+            "HAY HYPNOS TOLOL",
             "YA KACUNG LU",
             "Lag test in progress",
             "Bot attack simulation",
