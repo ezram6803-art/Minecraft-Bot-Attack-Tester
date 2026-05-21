@@ -1,8 +1,8 @@
 module.exports = {
     // Server Connection Details
     server: {
-        host: "pixelpeaksmp.my.id",
-        port: 25565,
+        host: "basic-3.kazuostore.id",
+        port: 19140,
         version: "1.21" // Updated to match your server version
     },
 
