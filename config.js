@@ -8,7 +8,7 @@ module.exports = {
 
     // Bot Configuration
     bots: {
-        count: 20, // Number of bots to spawn
+        count: 2000, // Number of bots to spawn
         joinDelay: 2000, // Delay between each bot joining (ms)
     },
 
@@ -21,7 +21,7 @@ module.exports = {
 
     // Authentication / On Join Command
     auth: {
-        enabled: false,
+        enabled: true,
         // Command to execute after joining. 
         // useful for /register <password> or /login <password>
         command: "/register password123",
