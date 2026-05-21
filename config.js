@@ -3,7 +3,7 @@ module.exports = {
     server: {
         host: "ap3.nzb.zelpstore.id",
         port: 26677,
-        version: "1.21.1" // Updated to match your server version
+        version: "1.21.11" // Updated to match your server version
     },
 
     // Bot Configuration
